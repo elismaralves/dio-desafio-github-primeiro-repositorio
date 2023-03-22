@@ -5,5 +5,5 @@
 ### Links úteis:
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[Link para download do Git](https://git-scm.com/downloads)
+[Download do Git](https://git-scm.com/downloads)
 
