@@ -1,4 +1,13 @@
 Link para download do Git: https://git-scm.com/downloads
 O git Bash é um terminal estendido para otimizar o uso do Git.
 
+Comandos executados no Git Bash:
+1. git clone git@github.com:elismaralves/dio-desafio-github-primeiro-repositorio.git
+2. git status
+3. cd dio-desafio-github-primeiro-repositorio
+4. git add .
+5. git commit -m "Inclusão das anotações do curso de Git/Github"
+6. git push origin main
+
+
 
